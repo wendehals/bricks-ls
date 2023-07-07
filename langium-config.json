@@ -1,0 +1,12 @@
+{
+    "projectName": "Bricks",
+    "languages": [{
+        "id": "bricks",
+        "grammar": "src/language/bricks.langium",
+        "fileExtensions": [".bricks"],
+        "textMate": {
+            "out": "syntaxes/bricks.tmLanguage.json"
+        }
+    }],
+    "out": "src/language/generated"
+}
